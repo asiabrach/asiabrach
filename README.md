@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asiabrach
+- 👋 Hi, I’m @joannabrach
 - 👀 I’m interested in learning new technologies.
 - 🌱 I’m currently learning how to code.
 - 💞️ I’m looking to collaborate on many new projects.
